@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aaron Griffin</h1>
-<h3 align="center">I am learning to be a frontend developer from Illinois</h3>
+<h3 align="center">I am learning to be a frontend developer</h3>
 
 - 🔭 I’m currently working on **The Oding Project**
 
