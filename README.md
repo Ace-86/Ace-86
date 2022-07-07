@@ -68,6 +68,14 @@
 
 </p>
 
+<details open>
+    <summary>Git gist highlights</summary>
+    <ul>
+        <li>Using badges</li>
+        <li>Nested lists</li>
+    </ul>
+</details>
+
 <h3 align="left">Support:</h3>
 
 <p>
