@@ -1,4 +1,6 @@
-![](https://github.com/Ace-86/banner.png)
+<div align="center">
+  <img src="https://github.com/Ace-86/banner.png" />
+</div>
 
 <h1 align="center">Hi 👋, I'm Aaron Griffin</h1>
 <h3 align="center">I am learning to be a frontend developer</h3>
