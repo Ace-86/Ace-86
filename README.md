@@ -1,7 +1,7 @@
 
- ![alt text](https://github.com/Ace-86/banner.png "Logo Title Text 1")
+
  
- <img src="https://github.com/Ace-86/banner.png">
+ <img align="center" width= 700px height= 400px  src="banner.png"></img>
 
 <h1 align="center">Hi 👋, I'm Aaron Griffin</h1>
 <h3 align="center">I am learning to be a frontend developer</h3>
