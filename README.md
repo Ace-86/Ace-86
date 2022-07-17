@@ -6,6 +6,8 @@
 <h1 align="center">Hi 👋, I'm Aaron Griffin</h1>
 <h3 align="center">I am learning to be a frontend developer</h3>
 
+ <img align="right" width= 400px height= 200px  src="typing1.gif"></img>
+
 - 🔭 I’m currently working on **The Oding Project**
 
 - 🌱 I’m currently learning **Javascript, HTML, CSS, Node.JS**
@@ -17,6 +19,7 @@
 - 📫 How to reach me **aarongriffin.dev@gmail.com**
 
 - ⚡ Fun fact **I like to make M.U.G.E.N games**
+
 
 <h3 align="left">Connect with me:</h3>
 
