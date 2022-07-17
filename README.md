@@ -1,6 +1,5 @@
-<div align="center">
-  <img src="https://github.com/Ace-86/banner.png" />
-</div>
+
+  <img src="https://github.com/Ace-86/banner.png">
 
 <h1 align="center">Hi 👋, I'm Aaron Griffin</h1>
 <h3 align="center">I am learning to be a frontend developer</h3>
