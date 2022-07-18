@@ -3,7 +3,7 @@
  
  <img align="center" width= 700px height= 400px  src="banner.png"></img>
 
-<h1 align="center">Hi 👋, I'm Aaron Griffin</h1>
+<h1 align="center">Hi 👋, I'm Aaron</h1>
 <h3 align="center">I am learning to be a frontend developer</h3>
 
  <img align="right" width= 400px height= 200px  src="typing1.gif"></img>
