@@ -66,7 +66,7 @@
 - [x] Etch-A-Sketch
 - [x] Key-D
 - [x] Portfolio
-- [x]Admin Dashboard (css)
+- [x] Admin Dashboard (css)
 - [x] Sign Up form
 
 <h3 align="left">Support:</h3>
