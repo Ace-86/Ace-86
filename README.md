@@ -50,10 +50,12 @@
 </p>
 
 <details open>
-    <summary>Git gist highlights</summary>
+    <summary>Skill List</summary>
     <ul>
-        <li>Using badges</li>
-        <li>Nested lists</li>
+        <li>Javascript</li>
+        <li>CSS</li>
+         <li>HTML</li>
+          <li>Git</li>
     </ul>
 </details>
 
