@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ace-86](https://github.com/Ace-86)
 
-- 💬 Ask me about **Javascript, CSS**
+- 💬 Ask me about **Javascript, CSS and HTML**
 
 - 📫 How to reach me **aarongriffin.dev@gmail.com**
 
