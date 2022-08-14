@@ -61,7 +61,7 @@
 
 ### Project List
 
-- [ ] Tic Tac Toe  
+- [x] Tic Tac Toe  
 - [x] Library App
 - [x] Calculator App
 - [x] Rock Paper Scissor
