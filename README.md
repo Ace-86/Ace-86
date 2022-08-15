@@ -61,34 +61,34 @@
 
 ### Project List
 
-- [x] Admin Dashboard (css)
-- [x] Key-D
-- [x] Etch-A-Sketch
-- [x] Sign Up form
-- [x] Rock Paper Scissor
-- [x] Calculator App
-- [x] Library App
-- [x] Tic Tac Toe  
-- [ ] Portfolio
-- [ ] Restaurant Page 
-- [ ] To-Do list
-- [ ] Weather App
-- [ ] Recursion
-- [ ] Linked List
-- [ ] Binary Search Trees
-- [ ] Knights Travails
-- [ ] Testing Practice
-- [ ] Battleship
-- [ ] CV Application
-- [ ] Memory Card
-- [ ] Shopping Cart
-- [ ] Photo Tagging App
-- [ ] Inventory Application
-- [ ] Forms and Deployment
-- [ ] Mini Message Board
-- [ ] Informational Site
-- [ ] Members Only
-- [ ] Blog API
+<details open>
+    <summary>Skill List</summary>
+    <ul>
+        <li>- [x] Admin Dashboard (css)</li>
+        <li>CSS</li>
+         <li>HTML</li>
+          <li>Git</li>
+          <li>Git</li>
+          <li>Git</li>
+          <li>Git</li>
+          <li>Git</li>
+          <li>Git</li>
+          <li>Git</li>
+          <li>Git</li>
+          <li>Git</li>
+          <li>Git</li>
+          <li>Git</li>
+          <li>Git</li>
+          <li>Git</li>
+          <li>Git</li>
+          <li>Git</li>
+          <li>Git</li>
+          <li>Git</li>
+          <li>Git</li>
+          <li>Git</li>
+
+    </ul>
+</details>
 
 <h3 align="left">Support:</h3>
 
