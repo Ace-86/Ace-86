@@ -61,34 +61,43 @@
 
 ### Project List
 
+
 <details open>
-    <summary>Skill List</summary>
+    <summary>Current Projects</summary>
     <ul>
         <li>- [x] Admin Dashboard (css)</li>
-        <li>CSS</li>
-         <li>HTML</li>
-          <li>Git</li>
-          <li>Git</li>
-          <li>Git</li>
-          <li>Git</li>
-          <li>Git</li>
-          <li>Git</li>
-          <li>Git</li>
-          <li>Git</li>
-          <li>Git</li>
-          <li>Git</li>
-          <li>Git</li>
-          <li>Git</li>
-          <li>Git</li>
-          <li>Git</li>
-          <li>Git</li>
-          <li>Git</li>
-          <li>Git</li>
-          <li>Git</li>
-          <li>Git</li>
+        <li>- [x] Key-D</li>
+         <li>- [x] Etch-A-Sketch</li>
+          <li>- [x] Sign Up form</li>
+          <li>- [x] Rock Paper Scissor</li>
+          <li>- [x] Calculator App</li>
+          <li>- [x] Library App</li>
+          <li>- [x] Tic Tac Toe  </li>
+          <li>- [ ] Restaurant Page</li>
+          <li>- [ ] To-Do list</li>
+          <li>- [ ] Weather App</li>
+          <li>- [ ] Recursion</li>
+          <li>- [ ] Linked List</li>
+          <li>- [ ] Binary Search Trees</li>
+          <li>- [ ] Knights Travails</li>
+          <li>- [ ] Unit Test</li>
+          <li>- [ ] Battleship</li>
+          <li>- [ ] CV Application</li>
+          <li>- [ ] Memory Card</li>
+          <li>- [ ] Shopping Cart</li>
+          <li>- [ ] Photo Tagging App</li>
+          <li>- [ ] Inventory Application</li>
+          <li>- [ ] Forms and Deployment</li>
+          <li>- [ ] Mini Message Board</li>
+          <li>- [ ] Informational Site</li>
+          <li>- [ ] Members Only</li>
+          <li>- [ ] Blog API</li>
+          <li>- [ ] Portfolio</li>
+
 
     </ul>
 </details>
+
 
 <h3 align="left">Support:</h3>
 
