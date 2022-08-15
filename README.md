@@ -61,15 +61,34 @@
 
 ### Project List
 
-- [x] Tic Tac Toe  
-- [x] Library App
-- [x] Calculator App
-- [x] Rock Paper Scissor
-- [x] Etch-A-Sketch
-- [x] Key-D
-- [x] Portfolio
 - [x] Admin Dashboard (css)
+- [x] Key-D
+- [x] Etch-A-Sketch
 - [x] Sign Up form
+- [x] Rock Paper Scissor
+- [x] Calculator App
+- [x] Library App
+- [x] Tic Tac Toe  
+- [ ] Portfolio
+- [ ] Restaurant Page 
+- [ ] To-Do list
+- [ ] Weather App
+- [ ] Recursion
+- [ ] Linked List
+- [ ] Binary Search Trees
+- [ ] Knights Travails
+- [ ] Testing Practice
+- [ ] Battleship
+- [ ] CV Application
+- [ ] Memory Card
+- [ ] Shopping Cart
+- [ ] Photo Tagging App
+- [ ] Inventory Application
+- [ ] Forms and Deployment
+- [ ] Mini Message Board
+- [ ] Informational Site
+- [ ] Members Only
+- [ ] Blog API
 
 <h3 align="left">Support:</h3>
 
