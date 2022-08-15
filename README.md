@@ -49,18 +49,7 @@
     
 </p>
 
-<details open>
-    <summary>Skill List</summary>
-    <ul>
-        <li>Javascript</li>
-        <li>CSS</li>
-         <li>HTML</li>
-          <li>Git</li>
-    </ul>
-</details>
-
 ### Project List
-
 
 <details open>
     <summary>Current Projects</summary>
@@ -93,8 +82,6 @@
           <li>- [ ] Members Only</li>
           <li>- [ ] Blog API</li>
           <li>- [ ] Portfolio</li>
-
-
     </ul>
 </details>
 
