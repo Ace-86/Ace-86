@@ -51,7 +51,7 @@
 
 ### Project List
 
-<details open>
+<details closed>
     <summary>Current Projects</summary>
     <ul>
         <li>- [x] Admin Dashboard (css)</li>
