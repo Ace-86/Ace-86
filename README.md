@@ -4,7 +4,7 @@
  <img align="center" width= 700px height= 400px  src="banner.png"></img>
 
 <h1 align="center">Hi 👋, I'm Aaron </h1>
-<h3 align="center">I am working toward becoming a full stack javascript developer.</h3>
+<h3 align="center">I am working toward becoming a full stack javascript developer</h3>
 
  <img align="right" width= 400px height= 200px  src="typing1.gif"></img>
 
