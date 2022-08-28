@@ -8,9 +8,9 @@
 
  <img align="right" width= 400px height= 200px  src="typing1.gif"></img>
 
-- 🔭 I’m currently working on **The Oding Project**
+- 🔭 I’m currently working through **The Odin Project**
 
-- 🌱 I’m currently learning **Javascript, HTML, CSS, Node.JS**
+- 🌱 I’m currently learning **Javascript, HTML, CSS, node.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ace-86](https://github.com/Ace-86)
 
@@ -62,7 +62,7 @@
           <li>- [x] Calculator App</li>
           <li>- [x] Library App</li>
           <li>- [x] Tic Tac Toe  </li>
-          <li>- [ ] Restaurant Page</li>
+          <li>- [x] Restaurant Page</li>
           <li>- [ ] To-Do list</li>
           <li>- [ ] Weather App</li>
           <li>- [ ] Recursion</li>
