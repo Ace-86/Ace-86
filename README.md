@@ -54,7 +54,7 @@
 <details closed>
     <summary>Current Projects</summary>
     <ul>
-        <li>- [x] Admin Dashboard (css)</li>
+        <li>- [x] Admin Dashboard </li>
         <li>- [x] Key-D</li>
          <li>- [x] Etch-A-Sketch</li>
           <li>- [x] Sign Up form</li>
