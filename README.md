@@ -18,7 +18,6 @@
 
 - 📫 How to reach me **aarongriffin.dev@gmail.com**
 
-- ⚡ Fun fact **I like to make M.U.G.E.N games**
 
 
 <h3 align="left">Connect with me:</h3>
