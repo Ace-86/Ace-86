@@ -60,7 +60,7 @@
           <li>- [x] Library App</li>
           <li>- [x] Tic Tac Toe  </li>
           <li>- [x] Restaurant Page</li>
-          <li>- [ ] To-Do list</li>
+          <li>- [x] To-Do list</li>
           <li>- [ ] Weather App</li>
           <li>- [ ] Recursion</li>
           <li>- [ ] Linked List</li>
