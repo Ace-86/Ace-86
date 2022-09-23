@@ -1,7 +1,6 @@
 
 
  
- <img align="center" width= 700px height= 400px  src="banner.png"></img>
 
 <h3 align="center">I am working toward becoming a full stack web developer</h3>
 
