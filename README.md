@@ -10,8 +10,6 @@
 
 - 🌱 I’m currently learning **Javascript, HTML, CSS, node.js**
 
-- 💬 Ask me about **Javascript, CSS and HTML**
-
 - 📫 How to reach me **aarongriffin.dev@gmail.com**
 
 
