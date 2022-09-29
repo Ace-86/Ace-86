@@ -1,6 +1,6 @@
 
 
- <h1> Hello My Name Is Aaron Griffin </h1>
+ <h1> Hello my name is Aaron Griffin </h1>
 
 
 
