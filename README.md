@@ -57,8 +57,8 @@
           <li>- [x] Tic Tac Toe  </li>
           <li>- [x] Restaurant Page</li>
           <li>- [x] To-Do list</li>
-          <li>- [ ] Weather App</li>
-          <li>- [ ] Recursion</li>
+          <li>- [x] Weather App</li>
+          <li>- [x] Recursion</li>
           <li>- [ ] Linked List</li>
           <li>- [ ] Binary Search Trees</li>
           <li>- [ ] Knights Travails</li>
