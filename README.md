@@ -9,21 +9,9 @@
 
 - 🔭 I’m currently working through **The Odin Project**
 
-- 🌱 I’m currently learning **Javascript, HTML, CSS, node.js**
+- 🌱 I’m currently learning **Javascript, React, SQL, Node.js**
 
 - 📫 How to reach me **aarongriffin.dev@gmail.com**
-
-
-
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-<a href="https://twitter.com/agriffin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="agriffin" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aarongriffin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aarongriffin" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/ace-86" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ace-86" height="30" width="40" /></a>
-<a href="https://instagram.com/agriffin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="agriffin" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/acecodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="acecodes" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -48,9 +36,12 @@
 <details closed>
     <summary>Current Projects</summary>
     <ul>
-        <li>- [x] Admin Dashboard </li>
-        <li>- [x] Key-D</li>
-         <li>- [x] Etch-A-Sketch</li>
+          <li>- [x] Tetris Clone </li>
+          <li>- [x] PowerGrade </li>
+          <li>- [x] Reviewz (CRUD) </li>
+          <li>- [x] Admin Dashboard </li>
+          <li>- [x] Key-D</li>
+          <li>- [x] Etch-A-Sketch</li>
           <li>- [x] Sign Up form</li>
           <li>- [x] Rock Paper Scissor</li>
           <li>- [x] Calculator App</li>
@@ -60,13 +51,13 @@
           <li>- [x] To-Do list</li>
           <li>- [x] Weather App</li>
           <li>- [x] Recursion</li>
-          <li>- [ ] Linked List</li>
-          <li>- [ ] Binary Search Trees</li>
+          <li>- [x] Linked List</li>
+          <li>- [x] Binary Search Trees</li>
+          <li>- [x] CV Application</li>
+          <li>- [x] Memory Card</li>
           <li>- [ ] Knights Travails</li>
           <li>- [ ] Unit Test</li>
           <li>- [ ] Battleship</li>
-          <li>- [ ] CV Application</li>
-          <li>- [ ] Memory Card</li>
           <li>- [ ] Shopping Cart</li>
           <li>- [ ] Photo Tagging App</li>
           <li>- [ ] Inventory Application</li>
