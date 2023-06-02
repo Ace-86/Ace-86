@@ -34,11 +34,14 @@
 <h3 align="left">A bit about me</h3>
 
 <p align="left">
- I started my official journey into coding in March of 2022. Before that, my experience with coding was a hobby at best. As a teen, I would manipulate M.U.G.E.N games and try to re-create my own fighting games using assets found online (which wasn't easy back in 2002).  And then life happened. I landed a career in education (another passion of mine) and created an amazing family with my wife and daughter. And although my path lead me in a totally different direction in life, my interest never went away. One day, I just decided I wanted change and began working through the Odin Project and learning the basics. From there, I started building projects, immersing myself in material and taking so many notes that any college professor would be proud. To the point that, ultimately, I got burnt out. I went from doing a little every day to taking a break for nearly 3 months during my first year of learning. But during that time, I got to reassess that I trully wanted. And I wanted to be the best.
+ I started my official journey into coding in March of 2022. Before that, my experience with coding was a hobby at best. As a teen, I would manipulate the M.U.G.E.N engine and try to re-create my own fighting games using assets found online (which wasn't easy back in 2002).  And then life happened. I landed a career in education (another passion of mine) and created an amazing family with my wife and daughter. And although my path led me in a totally different direction in life, my interest never went away. One day, I just decided I wanted it and began working through the Odin Project and learning the basics. From there, I started building projects, immersing myself in material and taking so many notes you would think I was in college. 
+ <p>
+ Ultimately, I got burnt out. I went from doing a little every day to taking a break for nearly 3 months during my first year of learning. Since then, I have made it a point not to go over-board. I'm not learning to code because I want to get a job or build the next million dollar app, but because I honestly enjoy it. I want to be the best at what I do, and if those other things come, it should be a side effect of my success, not my end goal. 
+ <p>
 </p>
 
 <p>
- I believe in truly being a life-long learner. I am passionate about my craft and want to encourage others that are unsure 
+ I believe in living a life-long learner. I am passionate about my craft and want to educate and encourage others might be interested in this path. Feel free to reach out to me if you have questions or want to work on a project.
  <p>
 
 
