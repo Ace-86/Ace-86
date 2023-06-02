@@ -41,7 +41,7 @@
 </p>
 
 <p>
- I believe in living a life-long learner. I am passionate about my craft and want to educate and encourage others might be interested in this path. Feel free to reach out to me if you have questions or want to work on a project.
+ I believe in being a life-long learner. I take pride in my ethics, morality and determination toward becoming a better version of myself.  I am passionate about my craft and want to educate and encourage others might be interested in this path. Feel free to reach out to me if you have questions or want to work on a project.
  <p>
 
 
