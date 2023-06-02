@@ -31,6 +31,17 @@
     
 </p>
 
+<h3 align="left">A bit about me</h3>
+
+<p align="left">
+ I started my official journey into coding in March of 2022. Before that, my experience with coding was a hobby at best. As a teen, I would manipulate M.U.G.E.N games and try to re-create my own fighting games using assets found online (which wasn't easy back in 2002).  And then life happened. I landed a career in education (another passion of mine) and created an amazing family with my wife and daughter. And although my path lead me in a totally different direction in life, my interest never went away. One day, I just decided I wanted change and began working through the Odin Project and learning the basics. From there, I started building projects, immersing myself in material and taking so many notes that any college professor would be proud. To the point that, ultimately, I got burnt out. I went from doing a little every day to taking a break for nearly 3 months during my first year of learning. But during that time, I got to reassess that I trully wanted. And I wanted to be the best.
+</p>
+
+<p>
+ I believe in truly being a life-long learner. I am passionate about my craft and want to encourage others that are unsure 
+ <p>
+
+
 ### Project List
 
 <details closed>
@@ -72,12 +83,6 @@
 
 
 <h3 align="left">Support:</h3>
-
-<p>
-
-<a href="https://www.buymeacoffee.com/Ace-86"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Ace-86" /></a>
-
-</p>
 
 <br><br>
 
