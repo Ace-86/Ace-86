@@ -93,7 +93,5 @@ Ultimately, I got burnt out. I went from doing something every day to taking a b
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ace-86&show_icons=true&locale=en&layout=compact" alt="ace-86" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ace-86&show_icons=true&locale=en" alt="ace-86" /></p>
-
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ace-86&theme=shades-of-purple&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
