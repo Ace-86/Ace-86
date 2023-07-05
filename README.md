@@ -34,15 +34,7 @@
 <h3 align="left">A bit about me</h3>
 
 <p align="left">
- I started my official journey into coding in March of 2022. Before that, my experience with coding was a hobby at best. As a teen, I would manipulate the M.U.G.E.N engine and try to re-create my own fighting games using assets found online (which wasn't easy back in 2002).  And then life happened. I landed a career in education (another passion of mine) and started an amazing family with my wife and daughter. And although my path led me in a totally different direction in life, my interest never went away. One day, I just decided and began working through the Odin Project to  learn the basics. From there, I started building projects, immersing myself in material and taking a ton of notes. 
- <p>
-Ultimately, I got burnt out. I went from doing something every day to taking a break for nearly 3 months during my first year of learning. Since then, I have made it a point not to go over-board again. I code when I feel like building or learning something new (which is pretty often). I  always want a healthy balance of maintaining a career, spending time with my family and improving my skills. I'm not learning to code because I want to get a job or build the next million dollar app, but because I honestly enjoy it. I want to be the best at what I do, and if those other things come, it should be a side effect of my success, not the ultimate goal. 
- <p>
-</p>
 
-<p>
- I truly believe in being a life-long learner. I take pride in my ethics, honesty and determination toward becoming the best version of myself. I am passionate about my craft and want to educate and encourage others might be interested in this path. So please, feel free to reach out to me if you have questions or just simply want to talk shop.
- <p>
 
 
 ### Project List
